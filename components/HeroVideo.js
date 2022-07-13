@@ -7,7 +7,7 @@ const HeroVideo = () => (
       width="100vw"
       height="100vh"
       playing={true}
-      muted={true}
+      // muted={true}
       loop={true}
       config={{ youtube: { playerVars: { disablekb: 1, showinfo: 1 } } }}
       controls={false}

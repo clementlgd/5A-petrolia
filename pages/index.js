@@ -1,7 +1,9 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import styles from '../styles/Hero.module.css'
 
+import Navigation from "../components/Navigation"
 import HeroVideo from "../components/HeroVideo"
+import Hero from "../components/Hero"
 import Products from "../components/Products"
 import Map from "../components/Map"
 
@@ -14,6 +16,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
+        <Navigation />
+        <Hero />
         <HeroVideo />
         <Products />
         <Map />

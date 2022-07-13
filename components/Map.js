@@ -36,12 +36,9 @@ const Map = () => (
         ))}
       </div>
       <div className={styles.rightContainer}>
-        {/* <Image src="/images/map.png" alt="map" layout="fill" objectFit="cover" className={'image'} /> */}
         <Image
           src="/images/map.png"
           alt="map"
-          // layout="fill"
-          // objectFit="contain"
           width="600%"
           height="430px"
         />
