@@ -4,19 +4,20 @@ import ProductCard from "./ProductCard"
 const productsData = [
   {
     id: 0,
-    name: "Petrolium Sac à dos",
+    name: "Petroleum bagpack",
     description: "description",
-    price: "₦ 41,700"
+    price: "₦ 41,700",
+    image: "/images/product-petroleum-removebg.png"
   },
   {
     id: 1,
-    name: "Petrolium Bateaux",
+    name: "Petroleum boat",
     description: "description",
     price: "₦ 41,700"
   },
   {
     id: 2,
-    name: "Petrolium Voiture",
+    name: "Petroleum car",
     description: "description",
     price: "₦ 41,700"
   }

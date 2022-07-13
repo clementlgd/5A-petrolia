@@ -6,24 +6,19 @@ import LocationItem from "./LocationItem"
 const locationsData = [
   {
     id: 0,
-    title: "Prétrolia n°12 - Port Harcourt",
+    title: "Genesis n°1 - Port Harcourt",
     description: "15 Herbert Macauley Road, Amadi 500101, Port Harcourt, Nigeria",
   },
   {
     id: 1,
-    title: "Prétrolia n°12 - Port Harcourt",
-    description: "15 Herbert Macauley Road, Amadi 500101, Port Harcourt, Nigeria",
+    title: "Genesis n°2 - Calabar",
+    description: "No:24 Water Intake Lemna, Calabar, Nigeria",
   },
   {
     id: 2,
-    title: "Prétrolia n°12 - Port Harcourt",
-    description: "15 Herbert Macauley Road, Amadi 500101, Port Harcourt, Nigeria",
+    title: "Genesis n°3 - Ala Oji",
+    description: "42,Azikiwe Road St. Jeoseph Plaza, Nigeria",
   },
-  {
-    id: 3,
-    title: "Prétrolia n°12 - Port Harcourt",
-    description: "15 Herbert Macauley Road, Amadi 500101, Port Harcourt, Nigeria",
-  }
 ]
 
 const Map = () => (
