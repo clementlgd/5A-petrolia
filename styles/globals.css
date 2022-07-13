@@ -1,0 +1,42 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Bruno";
+  src: url('../fonts/Bruno-Ace-SC-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sequel";
+  src: url('../fonts/sequel/Sequel-Sans-Light-Body.ttf');
+  font-weight: light;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sequel";
+  src: url('../fonts/sequel/Sequel-Sans-Bold-Body.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sequel";
+  src: url('../fonts/sequel/Sequel-Sans-Medium-Body.ttf');
+  font-weight: medium;
+  font-style: normal;
+}
