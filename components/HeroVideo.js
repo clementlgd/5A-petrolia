@@ -3,7 +3,7 @@ import ReactPlayer from 'react-player/youtube';
 const HeroVideo = () => (
   <div>
     <ReactPlayer
-      url="https://www.youtube.com/watch?v=qPNiIeKMHyg"
+      url="https://www.youtube.com/watch?v=bejsNKDWEvw"
       width="100vw"
       height="100vh"
       playing={true}

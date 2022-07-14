@@ -6,20 +6,21 @@ const productsData = [
     id: 0,
     name: "Petroleum bagpack",
     description: "description",
-    price: "₦ 41,700",
+    price: "₦ 250,00",
     image: "/images/product-petroleum-removebg.png"
   },
   {
     id: 1,
-    name: "Petroleum boat",
+    name: "Petroleum X Æ A-Ⅻ",
     description: "description",
-    price: "₦ 41,700"
+    price: "₦ 450,00",
+    image: "/images/product-2-petroleum.png"
   },
   {
     id: 2,
     name: "Petroleum car",
     description: "description",
-    price: "₦ 41,700"
+    price: "₦ 1200,00"
   }
 ]
 
