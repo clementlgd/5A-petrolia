@@ -5,6 +5,7 @@ import Navigation from "../components/Navigation"
 import HeroVideo from "../components/HeroVideo"
 import Hero from "../components/Hero"
 import Products from "../components/Products"
+import ProductVideo from "../components/ProductVideo"
 import Guide from "../components/Guide"
 import Map from "../components/Map"
 
@@ -21,6 +22,7 @@ export default function Home() {
         <Hero />
         <HeroVideo />
         <Products />
+        <ProductVideo />
         <Guide />
         <Map />
       </main>
