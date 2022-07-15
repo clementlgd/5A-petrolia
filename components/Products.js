@@ -4,7 +4,7 @@ import ProductCard from "./ProductCard"
 const productsData = [
   {
     id: 0,
-    name: "Petroleum backpack",
+    name: "Petroleum X Æ A",
     description: "1st version - backpack",
     price: "₦ 250,00",
     image: "/images/product-petroleum-removebg.png"
