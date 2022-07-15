@@ -4,22 +4,22 @@ import ProductCard from "./ProductCard"
 const productsData = [
   {
     id: 0,
-    name: "Petroleum bagpack",
-    description: "description",
+    name: "Petroleum backpack",
+    description: "1st version - backpack",
     price: "₦ 250,00",
     image: "/images/product-petroleum-removebg.png"
   },
   {
     id: 1,
     name: "Petroleum X Æ A-Ⅻ",
-    description: "description",
+    description: "2nd version - backpack",
     price: "₦ 450,00",
     image: "/images/product-2-petroleum.png"
   },
   {
     id: 2,
     name: "Petroleum car",
-    description: "description",
+    description: "comming soon",
     price: "₦ 1200,00"
   }
 ]

@@ -15,7 +15,7 @@ const ProductCard = ({ data }) => (
         />
       )}
       {!data.image && (
-        <p className={styles.soonText}>Bientôt disponible</p>
+        <p className={styles.soonText}>Comming soon</p>
       )}
     </div>
     <h2 className={styles.name}>{data.name}</h2>
